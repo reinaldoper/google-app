@@ -114,7 +114,8 @@ Na tela:
 
 --- 
 
-4. 🧩 Prisma
+5. 🧩 Prisma
+
 1. Gere os arquivos do Prisma Client
 
 ```bash
